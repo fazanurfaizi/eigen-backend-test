@@ -12,7 +12,7 @@ Before you begin, ensure you have the following installed on your local machine:
 
 1. **Clone the repository:**
 ```bash
-git clone git@github.com:fazanurfaizi/eigen-backend-test.git
+git clone https://github.com/fazanurfaizi/eigen-backend-test
 ```
 
 2. **Go to project folder:**
